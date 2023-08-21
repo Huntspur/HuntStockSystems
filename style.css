@@ -488,6 +488,6 @@ footer {
 @media (max-height: 750px) {
     /* Adjust styles for smaller screens */
     .Button-1 a img, .Button-2 a img {
-        max-width: 300px;
+        max-width: 250px;
       }
 }
