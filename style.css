@@ -182,8 +182,7 @@ footer {
     flex-direction: row;
     border:2px solid green;
     align-items: center;
-    height: 100%;
-    width: 100%;
+
 }
 
 .Desc{
