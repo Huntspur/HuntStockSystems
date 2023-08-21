@@ -86,7 +86,7 @@ var cartBoxContent = `
                           <div class="cart-price">${price}</div>
                           <input type="number" value = "1" class="cart-quantity" >
                       </div>
-                      <img src="/img/trash-alt-svgrepo-com.svg" style="width:50%;" class="cart-remove">
+                      <img src="trash-alt-svgrepo-com.svg" style="width:50%;" class="cart-remove">
 `;
 cartShopBox.innerHTML = cartBoxContent
 cartItems.append(cartShopBox)
