@@ -482,6 +482,9 @@ footer {
     .Button-1 a img, .Button-2 a img {
       max-width: 250px;
     }
+    .ShopButtons a img {
+    margin: 0px;
+}
 }
 
 @media (max-height: 750px) {
